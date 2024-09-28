@@ -1,0 +1,2 @@
+# TECHNOHACKS-SOLUTIONS---DATA-SCIENCE---SOCIAL-MEDIA-SENTIMENT-ANALYSIS-PROJECT
+This Social Media Sentiment Analysis project utilizes machine learning to classify sentiments from Twitter data. It merges SQLite and CSV datasets, preprocesses text, and employs a Random Forest model for sentiment prediction. Visualizations reveal sentiment distributions, aiding in understanding public opinion on airlines.
